@@ -1,5 +1,4 @@
-class Solution {
-
+ class Solution {
 public:
     int maximumGap(vector<int>& nums) {
         sort(nums.begin(),nums.end());
@@ -18,7 +17,8 @@ public:
             }
             i++;j++;
         }
-        return mx;  
+        return mx;
+        
     }
+    
 };
-
