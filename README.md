@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @Kunal-Saha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kunal-Saha/Kunal-Saha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {
