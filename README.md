@@ -1,6 +1,8 @@
 
 
-class Solution {
+class Solution 
+
+{
 
 public:
 
