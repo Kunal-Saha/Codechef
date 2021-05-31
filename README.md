@@ -18,8 +18,7 @@ public:
             i++;j++;
         }
  
-        return mx;
-        
+        return mx;  
     }
     
 };
